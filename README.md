@@ -1,4 +1,4 @@
-## Alicacion del clima  
+## Aplicación del clima  
 
 Ejercicio para consultar el clima de un lugar.
 Se implemento el comuno de API's por medio de servicios rest
